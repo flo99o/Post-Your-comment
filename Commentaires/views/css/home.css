@@ -1,0 +1,5 @@
+.container-msg {
+    display: flex;
+    align-items: flex-start;
+    background-color: black;
+}
